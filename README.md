@@ -1,5 +1,7 @@
 # Python
-My python studies
+Meus estudos em Python
+
+:grin::grin::grin:
 
 # PreAula-01
 Leitura de arquivos excel e envio de SMS via Twilio python
