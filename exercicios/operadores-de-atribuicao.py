@@ -3,7 +3,7 @@
 # Cometários
 # Operações matemáticas        + - * / ** %
 # Variáveis
-# Operadores de atribuição     =  +=  -=  *=
+# OPERADORES DE ATRIBUIÇÃO     =  +=  -=  *=
 # Operadores relacionais       == != < > <= >=
 # Operadores lógicos           and or not
 
