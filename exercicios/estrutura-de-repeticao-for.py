@@ -6,5 +6,5 @@ lista2 = ["Olá", "Ronald", "FOR"]
 lista3 = [0, "name", "Python", 4.23, True]
 
 
-for i in lista1:
+for i in lista3:
     print(i)
