@@ -6,14 +6,14 @@
 # Operadores relacionais       == != < > <= >=
 # OPERADORES LOGICOS           and or not
 
-
+'''
 x = 2 
 y = 3
 
 print(x == y and x > y)
 print(x != y or x < y)
 
-
+'''
 # Exemplo com NOT
 nome = input('Qual o seu nome: ')
 
