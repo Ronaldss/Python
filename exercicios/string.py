@@ -23,7 +23,7 @@ print(tamanho)
 '''
 
 
-#  Navegando entre as posições de uma string
+''' Navegando entre as posições de uma string
 
 a = "Ronald"
 b = "Emanuella" 
@@ -32,6 +32,11 @@ print(a[2])
 print(a[1])
 print(a[0])
 
+'''
 
+# Imprimir parte de uma string
+a = "Ronald com Sobre Nome e Tudo"
+
+print (a[0:6])
 
 
