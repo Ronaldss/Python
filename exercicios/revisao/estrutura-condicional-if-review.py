@@ -13,4 +13,4 @@ print("Analisando...")
 if acesso_name == 'Ronald' and acesso_pass == 123:
     print("Acesso liberado!")
 else:
-    print("ACESSO NÃO AUTIRIZADO!!!")
+    print("ACESSO NÃO AUTORIZADO!!!")
