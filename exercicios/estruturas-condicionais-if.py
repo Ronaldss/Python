@@ -50,5 +50,5 @@ elif y > x:
     print("y maior que x")
 else:
     print("numeros diferentes")
-
+print("Saiu do IF.")
 

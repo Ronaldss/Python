@@ -12,5 +12,9 @@ print("Analisando...")
 
 if acesso_name == 'Ronald' and acesso_pass == 123:
     print("Acesso liberado!")
+elif acesso_name == 'Emanuella' or acesso_name == "emanuella" or acesso_name == "EMANUELLA":
+    print("Ola, " + acesso_name + ". Nao encontramos seu perfil, por favor, cadastre-se.")
 else:
     print("ACESSO NÃO AUTORIZADO!!!")
+
+print("The End!")
