@@ -21,7 +21,7 @@ nomeCompleto = nome1 + nome2 + "\n"
 print("Removendo caracteres especiais do final da string:")
 print(nomeCompleto.strip())
 
-# Convertendo uma lista em uma lista:
+# Convertendo uma string em lista:
 sequencia = "O rato roeu a roupa do rei de Roma"
 
 seq = sequencia.split()
