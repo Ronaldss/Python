@@ -23,3 +23,13 @@ Comandos pyautogui: https://pyautogui.readthedocs.io/en/latest/quickstart.html
 Usando a biblioteca plotly.express para análises um pouco mais detalhadas.
 ![image](https://user-images.githubusercontent.com/33934560/139370316-cea0b7d5-2512-46f9-835a-b22213a9d44d.png)
 ![image](https://user-images.githubusercontent.com/33934560/139370386-48ea5197-8c44-4e73-9647-67adc7801051.png)
+
+# Exercicios realizados no dia 01
+- Estrura de repetição FOR e RANGE
+- Estrutura condicional IF
+- Laços de repetição
+- Operadores de atribuição
+- Operadores lógicos
+- String - metodo FIND
+- String - metodo REPLACE
+- String - outros métodos
