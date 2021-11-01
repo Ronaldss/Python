@@ -15,5 +15,6 @@ print('')
 resA = a + bonos
 print('Variavel A + bonos: ' + str(resA))
 
-print(str(b += c))
+b += c
+print(str(b))
 #print('Valor de B+=C: ' + str(resB))
