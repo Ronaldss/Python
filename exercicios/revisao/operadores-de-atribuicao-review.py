@@ -14,6 +14,12 @@ print("Valor original da variavel C: " + str(c))
 print('')
 resA = a + bonos
 print('Variavel A + bonos: ' + str(resA))
-
-print(str(b += c))
-#print('Valor de B+=C: ' + str(resB))
+print('')
+b += c
+print('Valor de b += c: ' + str(b))
+print('')
+a -= c
+print('Valor de a -= c: ' + str(a))
+print('')
+c *= a
+print('Valor de c *= a: ' + str(c))
