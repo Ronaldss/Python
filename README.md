@@ -33,3 +33,11 @@ Usando a biblioteca plotly.express para análises um pouco mais detalhadas.
 - String - metodo FIND
 - String - metodo REPLACE
 - String - outros métodos
+
+# Revisão no dia 02
+- Estrutura condicional IF
+- Usando método RANGE (IF)
+- Estrutura de repetição FOR
+- Laço de repetição WHILE
+- Operadores de atribuição
+- Operadores relacionais
