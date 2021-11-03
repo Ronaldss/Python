@@ -41,3 +41,10 @@ Usando a biblioteca plotly.express para análises um pouco mais detalhadas.
 - Laço de repetição WHILE
 - Operadores de atribuição
 - Operadores relacionais
+
+# Revisão no dia 03
+- Operadores de atribuição (Update)
+- Operadores lógicos
+- Strings *método Find*
+- Strings *método Replace*
+- Strings *recursos e métodos mais usados no geral*
